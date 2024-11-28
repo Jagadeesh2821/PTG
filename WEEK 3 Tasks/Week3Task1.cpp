@@ -1,3 +1,4 @@
+/*
 Task 1: Build a Menu Navigation System
 Objective: Implement a basic menu navigation system similar to what is found in automotive HMI clusters (e.g., settings menu, media options).
 Requirements:
@@ -20,7 +21,7 @@ A C++ program that uses OOP to create the menu structure.
 Console output demonstrating navigation and interactions.
 
 Solution:
-
+*/
 #include <iostream>
 #include <vector>
 #include <string>
@@ -148,7 +149,7 @@ int main() {
 }
 
 
-
+/*
 O/p:-
 -- Main Menu --
 1. Settings
@@ -174,7 +175,7 @@ Options:
 4. Back
 5. Exit
 Enter your choice:
-
+*/
 
 
 
