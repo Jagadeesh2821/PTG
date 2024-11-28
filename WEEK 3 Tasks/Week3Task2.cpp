@@ -1,4 +1,5 @@
-Task 2: Simulate an Instrument Cluster Data Display
+/*
+    Task 2: Simulate an Instrument Cluster Data Display
 Objective: Create a simplified data display system to simulate speed, fuel level, and engine temperature.
 Requirements:
 Implement a class-based design:
@@ -14,6 +15,7 @@ A C++ program using multithreading (std::thread) to update and display data.
 Output showcasing real-time updates and warnings.
 
 Solution:
+*/
 
 #include <iostream>
 #include <iomanip>
@@ -80,7 +82,7 @@ int main() {
 }
 
 
-
+/*
 Output:
 
 ======================================
@@ -93,6 +95,6 @@ Temperature:  89 °C
 Press 'q' and Enter to quit.
 q
 Simulation ended.
-
+*/
 
 
