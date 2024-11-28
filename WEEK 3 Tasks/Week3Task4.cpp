@@ -1,4 +1,5 @@
-Task 4: HMI Skin Customization System
+/*
+    Task 4: HMI Skin Customization System
 Objective: Implement a system to manage different themes or skins for an HMI display.
 Requirements:
 Create a Theme class:
@@ -14,7 +15,7 @@ A C++ program that demonstrates theme switching.
 Output displaying applied themes.
 
 Solution:
-
+*/
 
 #include <iostream>
 #include <string>
@@ -101,7 +102,7 @@ int main() {
 }
 
 
-
+/*
 O/p:-
 
 
@@ -128,4 +129,4 @@ Enter the name of the theme to apply (or type 'exit' to quit): exit
 Exiting the program. Goodbye!
 
 
-
+*/
