@@ -1,3 +1,4 @@
+/*
 Task 3: Event Handling System for Touchscreen Input
 Objective: Simulate an event-driven system for processing touchscreen inputs on an HMI.
 Requirements:
@@ -16,6 +17,7 @@ A program simulating event processing.
 Example output demonstrating event handling.
 
 solution:-
+*/
 
 #include <iostream>
 #include <queue>
@@ -115,7 +117,7 @@ int main() {
 
 
 
-
+/*
 Output:
 
 Event Type: Tap | Timestamp: Mon Nov 25 17:55:38 2024
@@ -137,7 +139,7 @@ Swipe Direction: Left
 Swipe from (492, 315) to (124, 305)
 --------------------------------
 
-
+*/
 
 
 
